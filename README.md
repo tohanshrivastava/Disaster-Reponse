@@ -7,7 +7,7 @@ This project is divided in the following sections
 2. Machine Learning Pipeline to train a model able to classify text message in categories
 3. Web App to show model results in real time.
 
-# Dependencies
+## Dependencies
 1) Python 3.5+ (I used Python 3.7)
 2) Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
 3) Natural Language Process Libraries: NLTK
