@@ -24,4 +24,10 @@ This project is divided in the following sections
 
 ## Screenshots
 
-This has been given seperately in the screenshot directory of the file
+The screenshot of the opening page is given below :- 
+
+![picture](screenshots/page1.PNG)
+
+The screenshot of the message and the categories is given below:-
+
+![picture](screenshots/sample in_out.PNG)
