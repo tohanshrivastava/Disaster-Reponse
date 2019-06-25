@@ -26,8 +26,12 @@ This project is divided in the following sections
 
 The screenshot of the opening page is given below :- 
 
-![picture](screenshots/sample in_out.PNG)
+![picture](screenshots/page1.PNG.PNG)
 
-The screenshot of the message and the categories is given below:-
+The screenshot of the input message and the categories is given below:-
+
+![picture](screenshots/sample_in_out.PNG)
+
+
 
 
